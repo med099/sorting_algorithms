@@ -1,4 +1,4 @@
-#include <sort.h>
+#include "sort.h"
 /**
  * selection_sort - an algo to sort an array
  * @size: size of the array
